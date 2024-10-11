@@ -1,0 +1,10 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://tiousidig.github.io/sitemap.html.gz
+Sitemap: https://tiousidig.github.io/app/sitemap.html.gz
+Sitemap: https://tiousidig.github.io/assets/sitemap.html.gz
+Sitemap: https://tiousidig.github.io/css/sitemap.html.gz
+Sitemap: https://tiousidig.github.io/includes/sitemap.html.gz
+Sitemap: https://tiousidig.github.io/item/sitemap.html.gz
+Sitemap: https://tiousidig.github.io/src/sitemap.html.gz
